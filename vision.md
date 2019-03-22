@@ -31,7 +31,7 @@ Our analysis is elaborated in a number of background papers and blog posts. We c
 
 Through consultation with stakeholders, including several workshops, we collectively identified four principles that we see as foundations for a new project to build a shared, European digital space that is not just market-focused. Policies framed on the basis of these principles  ensure that the balance between private and public interests is safeguarded. These principles for a Shared Digital Europe are interconnected yet distinct, and form a consistent proposal for a new framework for thinking about the digital space in Europe. They are: Enable Self-Determination, Cultivate the Commons, Decentralise Infrastructure and Empower Public Institutions. They apply to all layers of the digital space from the physical networking infrastructure to the applications and services running running on top of the infrastructure and networking stack. Likewise they apply to the social, economic or political aspects of society undergoing digital transformation.  The four principles  are summarised in the diagram below.
 
-[image]
+![Shared Digital Euroep - four principles](https://raw.githubusercontent.com/shared-digital-europe/vision-document/master/SDE_4_principles.png)
 
 ## A new narrative
 
@@ -44,7 +44,7 @@ In proposing our new frame we are making use of dissatisfaction with the current
 
 In the diagram below, we have summarised key elements of the proposed frame and how it expands on the  the current Digital Single Market frame. 
 
-[image]
+![Shared Digital Europe Digital Signle Market overlap](https://raw.githubusercontent.com/shared-digital-europe/vision-document/master/venn.png)
 
 The time is clearly right to establish a new frame for digital policymaking, one that breaks with the market focus of the Digital Single Market.. In fact, several efforts are underway to search for such a frame. 
 First, there is growing awareness of "tech ethics" within the business community, especially in relation to the development of artificial intelligence technologies. This value-based approach is visible for example in the EU's "Strategy for AI in Europe" and could be applied to other issues and technologies. 
@@ -95,7 +95,7 @@ Today, market orthodoxy limits our ability to deal with the domination by corpor
 
 A new project to build a Shared Digital Europe will be our source of strength, by supporting social and economic innovation, as well as new, regenerative modes of production.
 
-[logo]
+![Shared Digital Europe](https://raw.githubusercontent.com/shared-digital-europe/vision-document/master/Frame_SDE.png)
 
 A Shared Digital Europe is a vision of a digital space that facilitates diversity, empowers communities and favours an overall people-centric and public-interest approach to technology development and innovation.
 
@@ -107,19 +107,19 @@ In a next step we will need to work with other stakeholders to translate the fou
 
 In this project we did not only come up with an overarching frame to shape the debate, but we also provide four broad solutions that point the direction for potential policy interventions. The four principles for a Shared Digital Europe  are shared by our peers - and emerged through a collaborative creation process. This comprehensive approach and narrative gives us the opportunity to present a full-scale agenda and push ahead in a time when there will be a certain vacuum with regard to digital policymaking and a clear need for vision and new ideas. 
 
-[image]
+![A Shared Digital Europe enables self-determination](https://raw.githubusercontent.com/shared-digital-europe/vision-document/master/Frames_self.png)
 
 It must be possible to fully participate in (online) social life without having to give up your personal data to commercial entities. This includes the right to privacy and the need for more democratic models of data governance and algorithmic transparency.
 
-[image]
+![A Shared Digital Europe cultuvates the commons](https://raw.githubusercontent.com/shared-digital-europe/vision-document/master/Frame_commons.png)
 
 By providing a networked public space, the Internet empowers people to engage in collaborative practices and knowledge sharing, thereby creating substantial economic value. And even more important, huge social value for all Europeans. 
 
-[image]
+![A Shared Digital Europe decentralizes infrastructure](https://raw.githubusercontent.com/shared-digital-europe/vision-document/master/Frame_infra.png)
 
 Decentralising our technological infrastructure is an approach that will increase Europe's technological sovereignty by reducing dependency on non-European technology providers. It is also a way to strengthen our democratic traditions and historic diversity.
 
-[image]
+![A Shared Digital Europe empowers public institutions](https://raw.githubusercontent.com/shared-digital-europe/vision-document/master/Frame_public.png)
 
 Our public institutions are best placed to assure broad democratic civic participation on how our knowledge, science and culture are governed. They must be empowered to provide meaningful online services and to provide the public with online spaces that are protected from the surveillance practices of commercial platforms. 
 
