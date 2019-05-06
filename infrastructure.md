@@ -1,4 +1,4 @@
-Principle: Decentralise Infrastructure
+# Principle: Decentralise Infrastructure
 
 Decentralisation is the basic shift caused in the past by core network technologies, from the original packet-switching networks, through peer-to-peer content networks, to currently developed blockchain-based solutions. Decentralised infrastructure is open, distributed and shared. It is an infrastructure that can also function as a commons, and can be governed in a democratic and self-determined manner.
 
